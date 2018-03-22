@@ -1,0 +1,19 @@
+{
+  "name": "nepos-bot",
+  "version": "0.0.1",
+  "description": "Nephew?",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhd5076/nepos-bot.git"
+  },
+  "author": "Dylan Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhd5076/nepos-bot/issues"
+  },
+  "homepage": "https://github.com/dhd5076/nepos-bot#readme"
+}
