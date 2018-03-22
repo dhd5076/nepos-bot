@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/dhd5076/nepos-bot/issues"
   },
-  "homepage": "https://github.com/dhd5076/nepos-bot#readme"
+  "homepage": "https://github.com/dhd5076/nepos-bot#readme",
+  "dependencies": {
+    "cleverbot-api": "^1.0.3",
+    "facebook-chat-api": "^1.4.0",
+    "install": "^0.10.4",
+    "npm": "^5.7.1",
+    "twilio": "^3.13.1"
+  }
 }
